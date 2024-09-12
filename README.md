@@ -8,7 +8,7 @@
  
  👀 Ich interessiere mich für Backend-Technologien 💞️ und versuche, sie zu meistern 😄 .
  
- 👀 Html ,CSS und JavaScript keine Fremde worte für mich .
+ 👀 Html ,CSS und JavaScript keine Fremdwörter für mich .
 
  📫 How to reach me :
   - E-mail wassimmadwar@gmail.com
