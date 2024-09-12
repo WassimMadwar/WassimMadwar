@@ -8,6 +8,7 @@
  
  👀 Ich interessiere mich für Backend-Technologien 💞️ und versuche, sie zu meistern 😄 .
  
+ 👀 Html ,CSS und JavaScript keine Fremde worte für mich .
 
  📫 How to reach me :
   - E-mail wassimmadwar@gmail.com
@@ -15,7 +16,7 @@
 
 
   ### Fun fact:
- ⚡ ich bin ein lieb, spontaner Mensch(aber  Praktisch) und Ehrlichkeit ist mir sehr wichtig .
+ ⚡ ich bin ein lieb, spontaner Mensch(aber  Praktisch) und Ehrlichkeit ist mir <sehr wichtig .
  ⚡  wohne in der Nähe von Hamburg (im schönen Norden)
  
  ⚡ Hier sind einige meiner Projekte, ich hoffe, sie gefallen Ihnen.
