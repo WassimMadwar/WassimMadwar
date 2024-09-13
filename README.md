@@ -23,7 +23,7 @@
  
  ⚡ Hier sind einige meiner Projekte, ich hoffe, sie gefallen Ihnen.
   
-  die Schulung quelle sind :
+  Meine Lernressourcen :
   
   1 - https://programmingadvices.com/
   
