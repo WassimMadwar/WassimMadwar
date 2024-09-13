@@ -16,14 +16,17 @@
 
 
   ### Fun fact:
- ⚡ Für mich persönlich bin ein lieb, spontaner Mensch(aber  Praktisch) und Ehrlichkeit ist mir wichtig ,
+ ⚡ Für mich persönlich bin ich eine liebevolle, spontane Person (aber praktisch), und Ehrlichkeit ist mir wichtig ,
  ⚡  wohne in der Nähe von Hamburg (im schönen Norden)
  
  ⚡ Hier sind einige meiner Projekte, ich hoffe, sie gefallen Ihnen.
   
   die Schulung quelle sind :
+  
   1 - https://programmingadvices.com/
+  
   2 - https://elzero.org/
+  
   3 - https://www.hassouna-academy.com/index
 <!---
 WassimMadwar/WassimMadwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
