@@ -1,7 +1,7 @@
               👋 Hi, I’m Wassim
 -  Ich habe Programmierung mit C++ lernen angefangen, mich auf Algorithmen und OOP Prinzipien konzentriert und mich dann auf C# spezialisiert.
 -  Zusätzlich habe ich SQL gelernt und mein Verständnis von Datenbankkonzepten durch fortgeschrittene T-SQL Schulungen vertieft.
--  Ich habe ADO.NET verwendet, um C# mit SQL Server zu verbinden. 
+-  Ich habe ADO.NET verwendet, um C# mit MS-SQL Server zu verbinden. 
 -  Ich habe mittlere Erfahrung mit WinForms, was mir geholfen hat, die wichtigsten Konzepte beim Erstellen von Benutzeroberflächen zu verstehen.
   
  🌱 Ich lerne derzeit Fortgeschrittene Logarithmen🌱.
