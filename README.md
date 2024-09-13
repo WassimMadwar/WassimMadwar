@@ -10,6 +10,8 @@
  
  👀 Html ,CSS und JavaScript keine Fremdwörter oder Neue Länder für mich .
 
+  👀👀 Ich suche meinen ersten Job als Softwareentwickler 👀👀
+    
  📫 How to reach me :
   - E-mail wassimmadwar@gmail.com
   - +49 176 72804596
@@ -28,6 +30,12 @@
   2 - https://elzero.org/
   
   3 - https://www.hassouna-academy.com/index
+
+  4 - The Pragmatic Programmer (Book) von Andrew Hunt und David Thoma .
+
+  5 - Clean Code (Book) von Robert C. Martin.
+
+  
 <!---
 WassimMadwar/WassimMadwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
