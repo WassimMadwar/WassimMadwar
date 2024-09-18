@@ -22,11 +22,13 @@
   
   2 - https://elzero.org/
   
-  3 - https://www.hassouna-academy.com/index
+  3 - https://codingmitjannick.de/
 
   4 - The Pragmatic Programmer (Book) von Andrew Hunt und David Thoma .
 
   5 - Clean Code (Book) von Robert C. Martin.
+
+  6 -  https://www.hassouna-academy.com/index
 
   ### Fun fact:
  ⚡ Für mich persönlich gesprochen, bin ich eine liebevolle, spontane Person (aber praktisch), und Ehrlichkeit ist mir wichtig ,
