@@ -14,7 +14,7 @@
     
  📫 How to reach me :
   - E-Mail wassimmadwar@gmail.com
-  - +49 176 72804596
+  - +49 17672804596
 
 ⚡  Meine Lernressourcen :
   
@@ -26,7 +26,7 @@
 
   4 - The Pragmatic Programmer (Book) von Andrew Hunt und David Thoma .
 
-  5 - Clean Code (Book) von Robert C. Martin.
+  5 - Clean Code (Audio Book) von Robert C. Martin.
 
   6 -  https://www.hassouna-academy.com/index
 
