@@ -1,5 +1,5 @@
               👋 Hi, I’m 01010111 01100001 01110011 01110011 01101001 01101101
--  Ich habe mein Selbststudium mit dem Programmieren in C++ begonnen, mich dabei auf Algorithmen und OOP-Prinzipien konzentriert und mich anschließend auf C# spezialisiert.
+-  Als Quereinsteiger habe mein Selbststudium mit dem Programmieren in C++ begonnen, mich dabei auf Algorithmen und OOP-Prinzipien konzentriert und mich anschließend auf C# spezialisiert.
 -  Zusätzlich habe ich SQL gelernt und mein Verständnis von Datenbankkonzepten durch fortgeschrittene T-SQL Schulungen vertieft.
 -  Ich habe ADO.NET verwendet, um C# mit dem MS-SQL Server zu verbinden. 
 -  Ich habe solide Erfahrungen mit WinForms gesammelt, was mir geholfen hat, die wichtigsten Konzepte beim Erstellen von Benutzeroberflächen besser zu verstehen.
