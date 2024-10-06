@@ -31,8 +31,7 @@
   6 -  https://www.hassouna-academy.com/index
 
   ### Fun fact:
- ⚡  Über mich: Ich bin ein liebevoller, spontaner (aber praktischer) Mensch und Ehrlichkeit ist mir wichtig, ⚡ wohne in der Nähe von Hamburg (im schönen Norden),     
-      unterwegs fahre ich gerne Fahrrad oder Moped .
+ ⚡  Über mich: Ich bin ein liebevoller, spontaner (aber praktischer) Mensch und Ehrlichkeit ist mir wichtig, ⚡ wohne in der Nähe von Hamburg (im schönen Norden), unterwegs fahre ich gerne Fahrrad oder Moped .
  
 
  ⚡ Hier sind einige meiner Projekte, ich hoffe, Sie finden Gefallen an diesen.
