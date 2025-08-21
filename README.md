@@ -16,22 +16,9 @@
   - E-Mail wassimmadwar@gmail.com
   - +49 17672804596
 
-⚡  Meine Lernressourcen :
-  
-  1 - https://programmingadvices.com/
-  
-  2 - https://elzero.org/
-  
-  3 - https://codingmitjannick.de/
-
-  4 - The Pragmatic Programmer (Book) von Andrew Hunt und David Thoma .
-
-  5 - Clean Code (Audio Book) von Robert C. Martin.
-
-  6 -  https://www.hassouna-academy.com/index
 
   ### Fun fact:
- ⚡  Über mich: Ich bin ein liebevoller, spontaner (aber praktischer) Mensch und Ehrlichkeit ist mir wichtig, ⚡ wohne in der Nähe von Hamburg (im schönen Norden), unterwegs fahre ich gerne Fahrrad oder Moped .
+ ⚡  Über mich: Ich bin ein spontaner (aber praktischer) Mensch und Ehrlichkeit ist mir wichtig, ⚡ wohne in der Nähe von Hamburg (im schönen Norden), unterwegs fahre ich gerne Fahrrad oder Moped .
  
 
  ⚡ Hier sind einige meiner Projekte, ich hoffe, Sie finden Gefallen an diesen.
